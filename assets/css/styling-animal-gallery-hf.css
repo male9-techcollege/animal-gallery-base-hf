@@ -1,4 +1,5 @@
 @import url("https://fonts.googleapis.com/css2?family=Merriweather:wght@700;900&family=Oswald&display=swap");
+
 /* font-family: "Merriweather", serif;
 font-family: "Oswald", sans-serif; */
 * {
@@ -103,3 +104,8 @@ header p {
 }
 
 /*-------------------------------------------------------------------*/
+
+/* My addition: */
+.global-footer {
+  padding-block: 2rem;
+}
