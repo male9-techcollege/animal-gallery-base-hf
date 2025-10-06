@@ -15,3 +15,7 @@ https://github.com/male9-techcollege/animal-gallery-base-hf
 Opgaven er live på 
 https://male9-techcollege.github.io/animal-gallery-base-hf/
 
+The loading animation in this assignment is subject to the Lottie Simple License (FL 9.13.21), which can be consulted on the following page of the LottieFiles website:
+https://lottiefiles.com/page/license
+The creator this animation is Joy(이주희):
+https://lottiefiles.com/g2pwamieaw
